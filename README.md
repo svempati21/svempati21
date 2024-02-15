@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I recently started learning Python.
-- I'm working on using natural language processing for neuroscience literature 
+- I'm also learning to use natural language processing to analyze neuroscience literature 
 
 <!--
 **svempati21/svempati21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
