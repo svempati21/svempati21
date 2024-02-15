@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning Git.
-- I'm learning how to skateboard.
-- I'm also learning how to program in Python.
+- I recently started learning Python.
+- I'm working on using natural language processing for neuroscience literature 
 
 <!--
 **svempati21/svempati21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
