@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I recently started learning Python.
+- I recently started my Master's Degree in the Data Science ALIGN program at Northeastern University.
 - I'm also learning to use natural language processing to analyze neuroscience literature 
 
 <!--
