@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I recently started my Master's Degree in the Data Science ALIGN program at Northeastern University.
-- I'm also learning to use natural language processing to analyze neuroscience literature 
+- I recently started my Master's Degree in Data Science program at NYU.
+- I'm also currently working on sequence-to-binder prediction for cancer therapeutics!
 
 <!--
 **svempati21/svempati21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
