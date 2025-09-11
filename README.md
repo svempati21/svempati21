@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I recently started my Master's Degree in Data Science program at NYU.
+- I recently started my Master's Degree in Data Science at NYU.
 - I'm also currently working on sequence-to-binder prediction for cancer therapeutics!
 
 <!--
